@@ -28,7 +28,6 @@ function menu() {
   console.log("\n");
 
   rl.question("Silahkan pilih tingkan stress : ", (stress) => {
-    console.log(stress);
     if (stress == 1) {
       wangy();
     } else if (stress == 2) {
