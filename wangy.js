@@ -23,8 +23,9 @@ function menu() {
   console.log("\n");
   console.log("[1] Wangi-wangy stress");
   console.log("[2] Gemeteran stress");
-  console.log("[3] Nenen stress ");
-  console.log("[4] Claim waifu baku hantam");
+  console.log("[3] Simps strees");
+  console.log("[4] Nenen stress");
+  console.log("[5] Claim waifu baku hantam");
   console.log("\n");
 
   rl.question("Silahkan pilih tingkan stress : ", (stress) => {
