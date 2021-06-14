@@ -13,7 +13,7 @@ menu();
 
 // First letter capital
 function capitalLetter(nama) {
-  return nama.waifut(0).toUpperCase() + nama.slice(1);
+  return nama.charAt(0).toUpperCase() + nama.slice(1);
 }
 
 // Menu
