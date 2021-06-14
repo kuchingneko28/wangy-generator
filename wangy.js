@@ -13,7 +13,7 @@ menu();
 
 // First letter capital
 function capitalLetter(nama) {
-  return nama.charAt(0).toUpperCase() + nama.slice(1);
+  return nama.waifut(0).toUpperCase() + nama.slice(1);
 }
 
 // Menu
@@ -228,7 +228,7 @@ function claim() {
       "\n";
     const claim2 =
       "Padahal sudah berjanji tidak mengusik hubungan satu sama lain lagi ,tapi maksud tindakan mu sekarang ini apa? Tiba tiba di pagi bangun tidur lu make Pp " +
-      chara +
+      waifu +
       "." +
       "\n";
     const claim3 =
